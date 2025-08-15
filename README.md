@@ -15,8 +15,9 @@
 
 ###### Nota:
 
-En el archivo **main.cpp** se ejecuta el código, y se corren las funciones pertenecientes a la clase ListaDobleEnlazada.   
+En el archivo **main.cpp** se ejecuta el código, y se corren las funciones pertenecientes a la clase ListaDobleEnlazada.
+Además de cumplir con los requerimientos estipulados, este proyecto tiene una función extra que me permite eliminar los huéspedes, y así la lista se actualiza. 
 
 #### Video del código 
 
-(https://www.youtube.com/watch?v=252Ow5RY7Zg)
+()
