@@ -32,7 +32,6 @@ int main() {
         cout << "4. Listar huéspedes (orden alfabético)\n";
         cout << "5. Ver vecinos de una habitación\n";
         cout << "6. Eliminar huésped por habitación\n";
-
         cout << "0. Salir\n";
         cout << "Elija una opción: ";
         cin >> opcion;
@@ -95,7 +94,6 @@ int main() {
 
     return 0;
 }
-
 // TIP See CLion help at <a
 // href="https://www.jetbrains.com/help/clion/">jetbrains.com/help/clion/</a>.
 //  Also, you can try interactive lessons for CLion by selecting

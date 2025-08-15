@@ -178,7 +178,7 @@ std::pair<std::string, std::string> ListaDobleEnlazada::vecinos(int habitacion) 
 bool ListaDobleEnlazada::eliminarHuesped(int habitacion) {
     Nodo* objetivo = buscar(habitacion);
     if (!objetivo) {
-        std::cout << "❌ No se encontró un huésped en la habitación " << habitacion << ".\n";
+        std::cout << " No se encontró un huésped en la habitación " << habitacion << ".\n";
         return false;
     }
 
@@ -203,6 +203,6 @@ bool ListaDobleEnlazada::eliminarHuesped(int habitacion) {
     tam--;
 
     guardarEnArchivo(); // actualizar archivo
-    std::cout << "✅ Huésped eliminado correctamente.\n";
+    std::cout << " Huésped eliminado correctamente.\n";
     return true;
 }
