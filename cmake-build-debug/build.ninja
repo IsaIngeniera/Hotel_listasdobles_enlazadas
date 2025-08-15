@@ -61,6 +61,12 @@ build CMakeFiles/Practica_1.dir/Nodo.cpp.obj: CXX_COMPILER__Practica_1_unscanned
   OBJECT_DIR = CMakeFiles\Practica_1.dir
   OBJECT_FILE_DIR = CMakeFiles\Practica_1.dir
 
+build CMakeFiles/Practica_1.dir/ListaDobleEnlazada.cpp.obj: CXX_COMPILER__Practica_1_unscanned_Debug D$:/@ISABELLA/@EAFIT/@SEMESTRE$ 3/Estructura$ Datos$ y$ Algoritmos/Practica$ 1/ListaDobleEnlazada.cpp || cmake_object_order_depends_target_Practica_1
+  DEP_FILE = CMakeFiles\Practica_1.dir\ListaDobleEnlazada.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Practica_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Practica_1.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Practica_1
@@ -69,7 +75,7 @@ build CMakeFiles/Practica_1.dir/Nodo.cpp.obj: CXX_COMPILER__Practica_1_unscanned
 #############################################
 # Link the executable Practica_1.exe
 
-build Practica_1.exe: CXX_EXECUTABLE_LINKER__Practica_1_Debug CMakeFiles/Practica_1.dir/main.cpp.obj CMakeFiles/Practica_1.dir/Nodo.cpp.obj
+build Practica_1.exe: CXX_EXECUTABLE_LINKER__Practica_1_Debug CMakeFiles/Practica_1.dir/main.cpp.obj CMakeFiles/Practica_1.dir/Nodo.cpp.obj CMakeFiles/Practica_1.dir/ListaDobleEnlazada.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Practica_1.dir

@@ -1,0 +1,19 @@
+# ninja log v6
+14	1627	7768961040420976	CMakeFiles/Practica_1.dir/Nodo.cpp.obj	673718cebfa313e
+4	1930	7768961040318556	CMakeFiles/Practica_1.dir/main.cpp.obj	e507711bdfd952bb
+53	2751	7769053689163177	CMakeFiles/Practica_1.dir/ListaDobleEnlazada.cpp.obj	d55fa4f78d21755e
+2753	3457	7769053716163086	Practica_1.exe	dee4e6da4fdbe04d
+5	5969	7769070039861107	CMakeFiles/Practica_1.dir/main.cpp.obj	e507711bdfd952bb
+5973	6155	7769070099641649	Practica_1.exe	dee4e6da4fdbe04d
+67	1660	7769244377060155	CMakeFiles/Practica_1.dir/ListaDobleEnlazada.cpp.obj	d55fa4f78d21755e
+61	7884	7769244376999601	CMakeFiles/Practica_1.dir/main.cpp.obj	e507711bdfd952bb
+7884	8576	7769244455222639	Practica_1.exe	dee4e6da4fdbe04d
+7	2513	7769273800895931	CMakeFiles/Practica_1.dir/main.cpp.obj	e507711bdfd952bb
+2516	2859	7769273825985837	Practica_1.exe	dee4e6da4fdbe04d
+7	2089	7769275189328626	CMakeFiles/Practica_1.dir/main.cpp.obj	e507711bdfd952bb
+2089	2226	7769275210154649	Practica_1.exe	dee4e6da4fdbe04d
+14	1359	7769278538063170	CMakeFiles/Practica_1.dir/ListaDobleEnlazada.cpp.obj	d55fa4f78d21755e
+9	3290	7769278538002579	CMakeFiles/Practica_1.dir/main.cpp.obj	e507711bdfd952bb
+3290	3617	7769278570821241	Practica_1.exe	dee4e6da4fdbe04d
+15	2925	7769282314437634	CMakeFiles/Practica_1.dir/main.cpp.obj	e507711bdfd952bb
+2925	3062	7769282343540756	Practica_1.exe	dee4e6da4fdbe04d
