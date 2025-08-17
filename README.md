@@ -20,4 +20,4 @@ Además de cumplir con los requerimientos estipulados, este proyecto tiene una f
 
 #### Video del código 
 
-()
+(https://www.youtube.com/watch?v=XpH3RBngGq0)
